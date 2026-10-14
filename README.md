@@ -1,1 +1,3 @@
-# Sendo-Translate
+# Sendo Translate
+
+Currently In Beta! :)
